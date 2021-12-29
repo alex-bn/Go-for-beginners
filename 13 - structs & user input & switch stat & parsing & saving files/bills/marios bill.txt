@@ -1,0 +1,5 @@
+Bill breakdown: 
+pizza:                    ...$10.99 
+pudding:                  ...$7.34 
+tip                       ...$8
+total:                    ...$26.33
